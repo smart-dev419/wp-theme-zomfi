@@ -1,0 +1,77 @@
+@media (min-width: 1201px){
+  .play_btn{
+    padding: 10px 20px;
+  }
+
+  #primany-menu a{
+    font-size: 15px;
+  }
+
+  .bosses_brand_wrap{
+    padding: 0 15%;
+  }
+
+  .contact_right h1{
+    font-size: 44px;
+  }
+
+  .contact_right p{
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 1200px){
+  #branding{
+    width: 160px;
+  }
+  
+  .play_btn {
+    padding: 10px 10px;
+  }
+
+  #primany-menu a {
+    font-size: 11px;
+    padding: 0 5px;
+  }
+
+  .contact_right h1 {
+    font-size: 32px;
+  }
+
+  .contact_right p {
+    font-size: 11px;
+  }
+}
+
+@media (max-width: 980px){
+  #primany-menu a {
+    font-size: 7px;
+  }
+
+  .play_btn {
+    padding: 5px 5px;
+    font-size: 8px;
+  }
+
+  .contract_address{
+    font-size: 15px;
+  }
+
+  .bosses_brand_wrap {
+    padding: 0 20px;
+  }
+
+  .news_desc h2 {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .contact_right h1 {
+    font-size: 24px;
+  }
+
+  .contact_right p {
+    font-size: 10px;
+    line-height: 18px;
+  }
+}
